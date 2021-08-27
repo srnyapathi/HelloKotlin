@@ -73,3 +73,6 @@ outTmp/
 kotlin-ide/
 /build/
 /.idea/
+*.bin
+*.lock
+*.bin
